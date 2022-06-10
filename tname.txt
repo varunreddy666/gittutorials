@@ -1,1 +1,5 @@
-reddy is Varun Reddy, hi how are you
+<<<<<<< HEAD
+Hi this is Varun Reddy, hi how are you
+=======
+Hi this is Varun Reddy, hi how are you
+>>>>>>> 7d3c267 (new changes)
